@@ -1,0 +1,18 @@
+
+.hamber-menu-options{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.521);
+    z-index: 2;
+   color: white;
+    
+    
+}
+.hamber-menu-button-option{
+    align-self: flex-start;
+}
